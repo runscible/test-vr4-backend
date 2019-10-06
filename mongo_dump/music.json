@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5d98f805c516240c4428cf8b"), 
+    "name" : "Iggy pop"
+}
+{ 
+    "_id" : ObjectId("5d98f80dc516240c4428cf8c"), 
+    "name" : "LuiRí"
+}
+{ 
+    "_id" : ObjectId("5d98f819c516240c4428cf8d"), 
+    "name" : "Luis Alberto Spinetta"
+}
+{ 
+    "_id" : ObjectId("5d98f823c516240c4428cf8e"), 
+    "name" : "Invisible"
+}
+{ 
+    "_id" : ObjectId("5d98f82bc516240c4428cf8f"), 
+    "name" : "Almendra"
+}

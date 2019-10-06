@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("5d98fbc6c516240c4428cf91"), 
+    "name" : "hola test", 
+    "info" : "hola test"
+}
+{ 
+    "_id" : ObjectId("5d98fbf1c516240c4428cf92"), 
+    "name" : "Fitzcarraldo"
+}
+{ 
+    "_id" : ObjectId("5d98fc01c516240c4428cf93"), 
+    "name" : "Alphaville"
+}
+{ 
+    "_id" : ObjectId("5d98fc0cc516240c4428cf94"), 
+    "name" : "Chunking Express"
+}
+{ 
+    "_id" : ObjectId("5d990bc94624589393f0699e"), 
+    "name" : "hola test"
+}
+{ 
+    "_id" : ObjectId("5d990bfb4624589393f069e7"), 
+    "name" : "hola test"
+}

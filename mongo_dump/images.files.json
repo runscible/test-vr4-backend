@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5d995312cdb39a0910cc1c51"), 
+    "length" : NumberInt(26060), 
+    "chunkSize" : NumberInt(1024), 
+    "uploadDate" : ISODate("2019-10-06T02:36:10.780+0000"), 
+    "filename" : "avatar.jpg", 
+    "md5" : "341bfd038e6fdff687615bad86cf5755"
+}
